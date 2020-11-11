@@ -6,9 +6,9 @@ permalink: /commitees/
 
 ## Organising Committee
 
- - Dr Stefano Mariani, University of Modena and Reggio Emilia, Italy. [Mail](mailto:stefano.mariani@unimore.it) | [Website](http://personale.unimore.it/rubrica/dettaglio/s.mariani)
- - Dr Sara Montagna, University of Bologna, Italy. [Mail](mailto:sara.montagna@unibo.it) | [Website](http://apice.unibo.it/xwiki/bin/view/SaraMontagna/WebHome)
- - Prof. Michael I. Schumacher, University of Applied Sciences, Switzerland. [Mail](mailto:michael.schumacher@hevs.ch) | [Website](https://www.hevs.ch/en/minisites/projects-products/aislab/collaborateurs/uas-professor/schumacher-1800)
+ - Dr Stefano Mariani, University of Modena and Reggio Emilia, Italy. >> [Mail](mailto:stefano.mariani@unimore.it) >> [Website](http://personale.unimore.it/rubrica/dettaglio/s.mariani)
+ - Dr Sara Montagna, University of Bologna, Italy. >> [Mail](mailto:sara.montagna@unibo.it) >> [Website](http://apice.unibo.it/xwiki/bin/view/SaraMontagna/WebHome)
+ - Prof. Michael I. Schumacher, University of Applied Sciences, Switzerland. >> [Mail](mailto:michael.schumacher@hevs.ch) >> [Website](https://www.hevs.ch/en/minisites/projects-products/aislab/collaborateurs/uas-professor/schumacher-1800)
 
 ## Program Committee
 
