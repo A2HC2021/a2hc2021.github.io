@@ -4,14 +4,11 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-Intelligent agent-based systems constitute one of the most exciting research areas in Artificial Intelligence.
-Due to the growing interest in the application of agent-based systems in healthcare, a number of applications addressing clinical problems are already based on agent technology.
-Thus, it is unquestionable that a benefit is guaranteed if the specialists in the field can meet and report on the results achieved in this area, discuss the advantages that agent-based systems may bring to medical domains, and possibly the problems they encountered, and also provide a list of the research topics that should be tackled in the near future.
+Submissions should concern the **use of software agents** (either bound to physical devices or not) **in the healthcare context**, e.g.: equipment and drug inventory management, patients clinical record and follow-up management, patient monitoring in hospital or at home, planning patient transportation and interventions, etc.
 
-Core aspects of this workshop will be:
- - **Interdisciplinary research**: special efforts will be devoted to attract the attention of healthcare and biomedical specialists, so that they attend the workshop and realise the potential benefits of agent technology;
- - **Applied research**: the organising committee will also pay special attention to papers describing applications which are not just academic, but that are already deployed and running in a real medical environment;
- - Research devoted to **integrating agents with other technologies from the broad AI domain** will be particularly welcome, such as machine learning, multi-agent reinforcement learning, distributed planning.
+Topics like Healthy Ageing, Active Living, Chronic Disease Management, Patient Empowerment or others related to Quality of Life are example of domains of interest.
+
+Clinical decision support systems, adaptive and intelligent workflow management software, personal digital assistants, wearable technology ecosystems and the like are all examples of systems of interest.
 
 ## Topics of interest
 
