@@ -1,0 +1,36 @@
+---
+layout: page
+title: Workshop info
+permalink: /info/
+---
+
+The XIII Workshop on Agents Applied in Healthcare (A2HC2021) runs as part of [the 20th International Conference on Autonomous Agents and Multiagent Systems](https://aamas2021.soton.ac.uk).
+
+## Aims and scope
+
+The workshop aims to discuss applications of agent technologies into healthcare, a crucial domain of research, as demonstrated by the numerous initiatives devoted to financially supporting projects in this topic, such as those included under the “Health and Wellbeing” wo$
+They particularly motivate research devoted to finding solutions enabling an effective introduction of ICT in healthcare, since it is expected to have a big impact in expanding healthcare coverage while reducing its costs.
+Topics like Healthy Ageing, Active Living, Chronic Diseases or others related to Quality of Life play an increasingly important role in research.
+
+Besides these long-standing efforts, the recent global health situation caused by the COVID-19 pandemy both strengthened existing motivations for a digital transformation in healthcare and brought along new ones, by urging medical practitioners to embrace digital tools f$
+To overcome these new difficulties and deal with the long-standing ones as well, many technical issues have yet to be addressed, with the goal of providing medical practitioners at any organisational level (primary care, intensive care, administrators, etc.) the most sui$
+Clinical decision support systems, adaptive and intelligent workflow management software, personal digital assistants, wearable technology ecosystems and the like are all tools with enormous potential benefits to deliver in the healthcare domain, for instance.
+
+Intelligent agent-based systems constitute one of the most exciting research areas in Artificial Intelligence.
+Due to the growing interest in the application of agent-based systems in healthcare, a number of applications addressing clinical problems are already based on agent technology.
+Thus, it is unquestionable that a benefit is guaranteed if the specialists in the field can meet and report on the results achieved in this area, discuss the advantages that agent-based systems may bring to medical domains, and possibly the problems they encountered, and$
+
+## Focus
+
+Core aspects of this workshop will be:
+ - **Interdisciplinary research**: special efforts will be devoted to attract the attention of healthcare and biomedical specialists, so that they attend the workshop and realise the potential benefits of agent technology;
+ - **Applied research**: the organising committee will also pay special attention to papers describing applications which are not just academic, but that are already deployed and running in a real medical environment;
+ - Research devoted to **integrating agents with other technologies from the broad AI domain** will be particularly welcome, such as machine learning, multi-agent reinforcement learning, distributed planning.
+
+Several methodological and technical problems have been discovered by the researchers that attempt to deploy agent-based systems in the medical area; just to name a few, the growing number of huge databases that need to be integrated (e.g. genetic data from next generati$
+
+## Target audience
+
+The workshop is of interest to computer scientists applying agents in the healthcare field, and also for those looking for real application domains where their basic research can be deployed and for those looking for unsolved problems in the healthcare area that may be a$
+This workshop is relevant also for medical and biomedical practitioners who want to discover how agent technology may help them in their clinical tasks.
+The workshop may attract both established scientists as well as postgraduates and PhD students, since there are many open fields of work in this area.
