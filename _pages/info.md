@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Workshop info
 permalink: /info/
 ---
