@@ -12,6 +12,37 @@ They particularly motivate research devoted to finding solutions enabling an eff
 Topics like Healthy Ageing, Active Living, Chronic Disease Management, Patient Empowerment or others related to Quality of Life play an increasingly important role in this research.'
 ---
 
+## Latest news
+
+{% assign timeframe = 604800 %}
+{% assign maxposts = 3 %}
+{% assign date_format = site.minima.date_format | default: "%m/%d" %}
+
+<ul class="post-list text-muted list-unstyled">
+{% for post in site.posts limit: maxposts %}
+  {% assign post_in_seconds = post.last_modified_at | date: "%s" | plus: 0 %}
+  {% assign recent_posts = "now" | date: "%s" | minus: timeframe %}
+  {% assign post_updated = post.last_modified_at | date: date_format %}
+  {% capture post_date %}<small>{{ post.date | date: date_format }}</small>{% endcapture %}
+
+  {% if post_in_seconds > recent_posts %}
+  {% capture label_new %}<span class="label label-primary">new</span>{% endcapture %}
+    {% if post.last_modified_at > post.date %}
+      {% assign label_new = '' %}{% comment %}Clear NEW if modified{% endcomment %}
+      {% capture label_updated %}<span class="label label-info">Updated <span class="badge">{{ post_updated }}</span></span>{% endcapture %}
+    {% endif %}
+  {% endif %}
+  <li>
+    <em>{{ post_date }}</em>
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}</a> {{ label_new }}{{ label_updated }}
+    
+  </li>
+  {% assign post_date = '' %}
+  {% assign label_updated = '' %}
+{% endfor %}
+</ul>
+
 ## Aims and scope
 
 The workshop aims to discuss **applications of agent technologies to healthcare**, a crucial domain of research, as demonstrated by the numerous initiatives devoted to financially supporting projects in this topic, such as those included under the “Health and Wellbeing” work programme of H2020 in Europe or promoted by the NIH in the USA.
