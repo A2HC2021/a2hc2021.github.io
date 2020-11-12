@@ -2,6 +2,7 @@
 title: Committees
 permalink: /committees/
 classes: wide
+author: A2hc2021
 ---
 
 ## Organising Committee

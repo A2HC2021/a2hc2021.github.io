@@ -2,6 +2,7 @@
 title: Workshop info
 permalink: /info/
 classes: wide
+author: A2hc2021
 ---
 
 The XIII Workshop on Agents Applied in Healthcare (A2HC2021) runs as part of [the 20th International Conference on Autonomous Agents and Multiagent Systems](https://aamas2021.soton.ac.uk).

@@ -2,6 +2,7 @@
 title: Call for Papers
 permalink: /cfp/
 classes: wide
+author: A2hc2021
 ---
 
 Submissions should concern the **use of software agents** (either bound to physical devices or not) **in the healthcare context**, e.g.: equipment and drug inventory management, patients clinical record and follow-up management, patient monitoring in hospital or at home, planning patient transportation and interventions, etc.
