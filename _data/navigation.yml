@@ -9,5 +9,7 @@ main:
     url: /prog/
   - title: "Committees"
     url: /committees/
+  - title: "Past editions"
+    url: /history/
   - title: "Posts archive"
     url: /archive/
