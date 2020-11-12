@@ -69,6 +69,8 @@ defaults:
 
 search: true
 timezone: Europe/Rome
+teaser: /assets/images/logo-full.png
+#logo: "/assets/images/logo-img.png"
 
 author:
   name        : "Stefano Mariani"

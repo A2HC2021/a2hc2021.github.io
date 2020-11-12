@@ -1,6 +1,4 @@
 main:
-  - title: "Workshop info"
-    url: /info/
   - title: "Call for papers"
     url: /cfp/
   - title: "Dates"
