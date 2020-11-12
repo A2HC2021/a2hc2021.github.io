@@ -3,8 +3,6 @@ main:
     url: /cfp/
   - title: "Dates"
     url: /dates/
-  - title: "News"
-    url: /news/
   - title: "Submission"
     url: /sub/
   - title: "Program"
