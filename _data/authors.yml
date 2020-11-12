@@ -1,0 +1,10 @@
+Sara Montagna:
+  name        : "Sara Montagna"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sara.montagna@unibo.it"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://apice.unibo.it/xwiki/bin/view/SaraMontagna/WebHome"

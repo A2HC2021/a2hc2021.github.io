@@ -1,6 +1,7 @@
 ---
 title: Committees
-permalink: /commitees/
+permalink: /committees/
+classes: wide
 ---
 
 ## Organising Committee

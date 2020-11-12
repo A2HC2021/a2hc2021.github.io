@@ -1,0 +1,13 @@
+main:
+  - title: "Workshop info"
+    url: /info/
+  - title: "Call for papers"
+    url: /cfp/
+  - title: "Dates"
+    url: /dates/
+  - title: "Submission"
+    url: /sub/
+  - title: "Program"
+    url: /prog/
+  - title: "Committees"
+    url: /committees/
