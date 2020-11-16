@@ -26,5 +26,3 @@ A typical scale of [-2, 2] will be used to score the papers, and only those with
 Furthermore, papers with at least one negative score will be further screened:
  - if the negative review is too low, the paper will be rejected
  - in case of a mild negative review, the paper will receive an additional fast-track review to determine if it can be considered for presentation
-
-This will follow the same format as the previous related workshops which have been running smoothly in past years since 2002.
