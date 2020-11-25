@@ -7,7 +7,7 @@ author: A2hc2021
 
 ## Online organisation
 
-Due to the ongoing global COVID-19 situation, in case the while AAMAS conference will be held online, the workshop will accordingly be **asynchronous and online**, which means that each person interprets the schedule in **their own time zone** and an appropriate platform for sharing presentations and engaging discussion will be setup and communicated to authors in due time.
+Due to the ongoing global COVID-19 situation, in case the whole AAMAS conference will be held online, the workshop will accordingly be **asynchronous and online**, which means that each person interprets the schedule in **their own time zone** and an appropriate platform for sharing presentations and engaging discussion will be setup and communicated to authors in due time.
 The aim of such a schedule is:
  - to get a commitment to spend time watching talks
  - engaging with comments to create synchronisation within each timezone
