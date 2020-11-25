@@ -13,12 +13,11 @@ author: A2hc2021
 
 ## Program Committee
 
- - Dr. David Isern, Universitat Rovira Y Virgili (URV)
- - Andrea Omicini, Università di Bologna
+ - Diana Adamatti, Universidade Federal do Rio Grande
+ - Mohamed Tahar Bennai, University of Boumerdès
  - Angelo Croatti, Università di Bologna
- - Stefania Costantini, Università dell'Aquila
- - Aldo Franco Dragoni, Università Politecnica delle Marche
- - Marco S. Nobile, Eindhoven University of Technology
- - Beatriz López, University of Girona
  - Viviana Mascardi, Università degli Studi di Genova
+ - Juan Carlos Nieves, Umeå University
  - Franco Zambonelli, Università di Modena e Reggio Emilia
+ 
+ TBC
