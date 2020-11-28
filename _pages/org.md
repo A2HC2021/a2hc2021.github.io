@@ -18,6 +18,7 @@ author: A2hc2021
  - Angelo Croatti, Università di Bologna
  - Viviana Mascardi, Università degli Studi di Genova
  - Juan Carlos Nieves, Umeå University
+ - Emilio Sullis, Università degli Studi di Torino 
  - Franco Zambonelli, Università di Modena e Reggio Emilia
  
  TBC
