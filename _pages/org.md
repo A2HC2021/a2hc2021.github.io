@@ -15,6 +15,7 @@ author: A2hc2021
 
  - Diana Adamatti, Universidade Federal do Rio Grande
  - Mohamed Tahar Bennai, University of Boumerdès
+ - Stefano Bromuri, Open University of the Netherlands
  - Angelo Croatti, Università di Bologna
  - Viviana Mascardi, Università degli Studi di Genova
  - Juan Carlos Nieves, Umeå University
