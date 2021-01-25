@@ -12,13 +12,16 @@ Papers submitted to A2HC 2021 must describe original research results and must n
 
 ## Publication venue
 
-All accepted and presented papers will be published in a **Special Issue of a selected international Journal**, that organisers are currently evaluating.
+All accepted and presented papers will be published in a
+Topical Collection of the Journal of Medical Systems, Springer, I.F. 3.058 
+http://www.springer.com/journal/10916
 
 For publication, it is **required** that authors carefully revise their manuscripts according to both the reviewers' comments received while submitting to the workshop, and the comments received from the audience during the workshop. 
 
 ## Formatting
 
-TBA
+Papers must respect the submission guidelines and template required for the publication in JOMS as available at:
+http://www.springer.com/journal/10916/submission-guidelines
 
 ## Review process
 
