@@ -1,5 +1,5 @@
 ---
-title:  "Publication venue announcement"
+title:  "Special Issue announcement"
 date:   2020-01-25 12:10:32 +0100
 tags: news SI submission journal
 ---
