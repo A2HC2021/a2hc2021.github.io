@@ -1,0 +1,7 @@
+---
+title:  "Publication venue announcement"
+date:   2020-01-25 12:10:32 +0100
+tags: news SI submission journal
+---
+
+We are proud to announce that papers accepted at the workshop *and dutifully revised according to reviewers'* comments will be published in a dedicated **Special Issue of A2HC2021 on the Springer [Journal od Medical Systems](https://www.springer.com/journal/10916)**
