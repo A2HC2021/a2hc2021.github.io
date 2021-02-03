@@ -5,7 +5,7 @@ classes: wide
 author: A2hc2021
 ---
 
-Manuscripts should be submitted to EasyChair: [https://easychair.org/conferences/?conf=a2hc2021]().
+Manuscripts should be submitted to EasyChair: [https://easychair.org/conferences/?conf=a2hc2021](https://easychair.org/conferences/?conf=a2hc2021).
 
 Papers submitted to A2HC 2021 must describe original research results and must not have been published or simultaneously submitted anywhere else.
 **At least one author** of each accepted paper must register for the A2HC 2021 and present the paper at the workshop (be it in presence or remotely).
