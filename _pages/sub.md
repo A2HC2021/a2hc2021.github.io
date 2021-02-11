@@ -19,7 +19,9 @@ For publication, it is **required** that authors carefully revise their manuscri
 ## Formatting
 
 Papers must respect the submission guidelines and template required for the publication in JOMS as available at:
-[http://www.springer.com/journal/10916/submission-guidelines]().
+[http://www.springer.com/journal/10916/submission-guidelines](https://www.springer.com/journal/10916/submission-guidelines).
+
+As a reference, manuscripts should be maximum 10 pages long in a two-columns format ([sample paper from previous workshop edition](https://link.springer.com/article/10.1007%2Fs10916-020-01621-7))
 
 ## Review process
 
