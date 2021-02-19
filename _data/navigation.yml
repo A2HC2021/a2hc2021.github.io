@@ -5,6 +5,8 @@ main:
     url: /dates/
   - title: "Submission"
     url: /sub/
+  - title: "Registration"
+    url: /registration/
   - title: "Program"
     url: /prog/
   - title: "Committees"
