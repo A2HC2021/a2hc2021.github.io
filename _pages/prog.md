@@ -30,7 +30,7 @@ An **opening live-stream will take place at 13:00 BST**, in the form of a Zoom m
  - Meeting ID: TBD
  - Password: TBD
 
-"Social table" shared document (comments available for everyone, publicly): TBD
+"Social table" shared document (comments available for everyone, publicly): (this Google doc)[https://docs.google.com/document/d/1hPYYY1hfUAgnzdhs_fifj3__YQOPklcshIRpJSCxw7Y/edit?usp=sharing]
 
 Hereafter the list of accepted papers organised in Sessions we defined according to paper contents.
 
