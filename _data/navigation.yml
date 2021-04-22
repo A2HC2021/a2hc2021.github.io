@@ -1,4 +1,6 @@
 main:
+  - title: "Program"
+    url: /prog/
   - title: "Call for papers"
     url: /cfp/
   - title: "Dates"
@@ -7,8 +9,6 @@ main:
     url: /sub/
   - title: "Registration"
     url: /registration/
-  - title: "Program"
-    url: /prog/
   - title: "Committees"
     url: /committees/
   - title: "Past editions"
