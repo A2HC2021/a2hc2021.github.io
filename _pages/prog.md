@@ -29,20 +29,21 @@ An **opening live-stream will take place at 13:00 BST**, in the form of a Zoom m
  - Meeting URL: TBD
  - Meeting ID: TBD
  - Password: TBD
+
 "Social table" shared document (comments available for everyone, publicly): TBD
 
 Hereafter the list of accepted papers organised in Sessions we defined according to paper contents.
 
 ### Session 1
 
- - Gaetano Manzo, Davide Calvaresi, Jean-Paul Calbimonte, Oscar Jimenez Del Toro and Michael Schumacher. Cohort and Trajectory Analysis in Multi-Agent Support Systems for Cancer Survivors
- - Shihan Wang, Chao Zhang, Ben Kröse and Herke van Hoof. Optimizing Adaptive Notifications in Mobile Health Interventions Systems: Reinforcement Learning from a Data-driven Behavioral Simulator
- - Emilio Sulis and Pietro Terna. Decision support for a vaccination campaign based on an agent-based model
+ - *Gaetano Manzo, Davide Calvaresi, Jean-Paul Calbimonte, Oscar Jimenez Del Toro and Michael Schumacher*. Cohort and Trajectory Analysis in Multi-Agent Support Systems for Cancer Survivors
+ - *Shihan Wang, Chao Zhang, Ben Kröse and Herke van Hoof*. Optimizing Adaptive Notifications in Mobile Health Interventions Systems: Reinforcement Learning from a Data-driven Behavioral Simulator
+ - *Emilio Sulis and Pietro Terna*. Decision support for a vaccination campaign based on an agent-based model
 
 ### Session 2
 
- - Sara Montagna, Stefano Mariani and Emiliano Gamberini. Augmenting BDI agency with a Cognitive Service: general architecture and validation in healthcare domain
- - Ajith Vemuri, Keith Decker, Mathew Saponaro and Gregory Dominick. Multi Agent Architecture for Automated Health Coaching
+ - *Sara Montagna, Stefano Mariani and Emiliano Gamberini*. Augmenting BDI agency with a Cognitive Service: general architecture and validation in healthcare domain
+ - *Ajith Vemuri, Keith Decker, Mathew Saponaro and Gregory Dominick*. Multi Agent Architecture for Automated Health Coaching
 
 ### Discussion table
 
