@@ -43,7 +43,7 @@ All presentations will be pre-recorded.
 
 ### Session 1
 
- - *Gaetano Manzo, Davide Calvaresi, Jean-Paul Calbimonte, Oscar Jimenez Del Toro and Michael Schumacher*. Cohort and Trajectory Analysis in Multi-Agent Support Systems for Cancer Survivors
+ - *Gaetano Manzo, Davide Calvaresi, Jean-Paul Calbimonte, Oscar Jimenez Del Toro and Michael Schumacher*. Cohort and Trajectory Analysis in Multi-Agent Support Systems for Cancer Survivors ([video](https://youtu.be/jusJDX0GDFs)) ([slides](https://www.slideshare.net/gaetanomanzo/manzoa2hcaamas))
  - *Shihan Wang, Chao Zhang, Ben Kröse and Herke van Hoof*. Optimizing Adaptive Notifications in Mobile Health Interventions Systems: Reinforcement Learning from a Data-driven Behavioral Simulator
  - *Emilio Sulis and Pietro Terna*. Decision support for a vaccination campaign based on an agent-based model
 
