@@ -49,7 +49,7 @@ All presentations will be pre-recorded.
 
 ### Session 2
 
- - *Sara Montagna, Stefano Mariani and Emiliano Gamberini*. Augmenting BDI agency with a Cognitive Service: general architecture and validation in healthcare domain
+ - *Sara Montagna, Stefano Mariani and Emiliano Gamberini*. Augmenting BDI agency with a Cognitive Service: general architecture and validation in healthcare domain ([video](https://youtu.be/giVDFfjlu3o))
  - *Ajith Vemuri, Keith Decker, Mathew Saponaro and Gregory Dominick*. Multi Agent Architecture for Automated Health Coaching
 
 ### Discussion Table
