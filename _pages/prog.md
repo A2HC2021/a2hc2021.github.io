@@ -44,13 +44,13 @@ All presentations will be pre-recorded.
 ### Session 1
 
  - *Gaetano Manzo, Davide Calvaresi, Jean-Paul Calbimonte, Oscar Jimenez Del Toro and Michael Schumacher*. Cohort and Trajectory Analysis in Multi-Agent Support Systems for Cancer Survivors ([video](https://youtu.be/jusJDX0GDFs)) ([slides](https://www.slideshare.net/gaetanomanzo/manzoa2hcaamas))
- - *Shihan Wang, Chao Zhang, Ben Kröse and Herke van Hoof*. Optimizing Adaptive Notifications in Mobile Health Interventions Systems: Reinforcement Learning from a Data-driven Behavioral Simulator ([video](https://youtu.be/qP-szlFKZ6k))
- - *Emilio Sulis and Pietro Terna*. Decision support for a vaccination campaign based on an agent-based model ([video](https://vimeo.com/544860567) password: a2hc)
+ - *Shihan Wang, Chao Zhang, Ben Kröse and Herke van Hoof*. Optimizing Adaptive Notifications in Mobile Health Interventions Systems: Reinforcement Learning from a Data-driven Behavioral Simulator ([video](https://youtu.be/qP-szlFKZ6k))([slides]({{ site.url }}/assets/A2HC_SW.pdf))
+ - *Emilio Sulis and Pietro Terna*. Decision support for a vaccination campaign based on an agent-based model ([video](https://vimeo.com/544860567), password: a2hc)([slides]({{ site.url }}/assets/A2HC-2021-sulis_terna.pdf))
 
 ### Session 2
 
- - *Sara Montagna, Stefano Mariani and Emiliano Gamberini*. Augmenting BDI agency with a Cognitive Service: general architecture and validation in healthcare domain ([video](https://youtu.be/giVDFfjlu3o))
- - *Ajith Vemuri, Keith Decker, Mathew Saponaro and Gregory Dominick*. Multi Agent Architecture for Automated Health Coaching ([video](https://youtu.be/yrq7L2sq2C8))
+ - *Sara Montagna, Stefano Mariani and Emiliano Gamberini*. Augmenting BDI agency with a Cognitive Service: general architecture and validation in healthcare domain ([video](https://youtu.be/giVDFfjlu3o))([slides]({{ site.url }}/assets/A2HC2021-BDI-cognitive.pdf))
+ - *Ajith Vemuri, Keith Decker, Mathew Saponaro and Gregory Dominick*. Multi Agent Architecture for Automated Health Coaching ([video](https://youtu.be/yrq7L2sq2C8))([slides]({{ site.url }}/assets/A2HC-MA3HCFinal.pdf))
 
 ### Discussion Table
 
