@@ -1,0 +1,13 @@
+---
+title:  "Talks and slides available!"
+date:   2021-04-22 14:31:12 +0100
+tags: news program talks slides
+---
+
+All the pre-recorded **talks** as well as the **slides** used therein are **available** at [this page](/prog/) (scroll down to the the "Schedule" section)!
+
+Feel free to check them out even before the workshop starts (at 13:00 BST later today), and **post your questions, comments, appreciation** to the [Social Table](https://docs.google.com/document/d/1hPYYY1hfUAgnzdhs_fifj3__YQOPklcshIRpJSCxw7Y/edit?usp=sharing): workshop organisers and authors will be there monitoring the table and ready to discuss :)
+
+Also, don't miss our **opening livestream** on [Underline.io](https://underline.io/events/116/sessions?eventSessionId=3402) (Zoom session link therein for security reasons) and our Discussion Table (same link, at 16:00 BST).
+
+See you later, enjoy AAMAS in the meanwhile ;)
