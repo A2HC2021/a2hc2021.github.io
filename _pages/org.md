@@ -14,8 +14,6 @@ author: A2hc2021
 ## Program Committee
 
  - Diana Adamatti, Universidade Federal do Rio Grande
- - Mohamed Tahar Bennai, University of Boumerdès
- - Stefano Bromuri, Open University of the Netherlands
  - Angelo Croatti, Università di Bologna
  - Esteban Guerrero, University of Vaasa 
  - Helena Lindgren, Umeå University
